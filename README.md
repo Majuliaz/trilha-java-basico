@@ -1,0 +1,1 @@
+Atualizações e conclusão do projeto ContaTerminal pedido pela DIO. Neste projeto implementei elementos para receber dados de número de conta, agência, nome do cliente e saldo bancário entregando uma mensagem final para o cliente.
